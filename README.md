@@ -1,6 +1,8 @@
 # Update - Working Code
 
-To get the code working you will have to run it from a webserver.
+To get the code working you will have to run it from a webserver of some kind.
+
+Browse to `example.html` and play around with resizing your browser.
 
 Quick server to get up and running if you have nodejs installed:
 
