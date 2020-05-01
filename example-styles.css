@@ -1,0 +1,40 @@
+#p1 {
+    top-left: top-left(window);
+}
+
+#p2 {
+    p2: p2(window)
+}
+
+#p3 {
+    right-top: top-right(window)
+}
+
+#p4 {p4: p4(window)}
+#p5 {p5: p5(window)}
+#p6 {p6: p6(window)}
+#p7 {p7: p7(window)}
+#p8 {p8: p8(window)}
+#p9 {p9: p9(window)}
+
+#play {
+    left-middle:bottom-right(#p5)
+}
+
+/* another example
+
+#play{
+    center:center(window)
+}
+
+#p1{p5:p1(#play)}
+#p2{p5:p2(#play)}
+#p3{p5:p3(#play)}
+#p4{p5:p4(#play)}
+#p5{p5:p5(#play)}
+#p6{p5:p6(#play)}
+#p7{p5:p7(#play)}
+#p8{p5:p8(#play)}
+#p9{p5:p9(#play)}
+
+*/

@@ -1,3 +1,15 @@
+# Update - Working Code
+
+To get the code working you will have to run it from a webserver.
+
+Quick server to get up and running if you have nodejs installed:
+
+    npm install http-server -g
+	cd {9pt folder}
+	http-server
+
+<hr>
+
 # ![9pt](https://raw.githubusercontent.com/zoplonix/9pt/master/9pt-logo.png) 
 
 ## Logical Layout System for CSS
